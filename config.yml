@@ -1,0 +1,12 @@
+style:
+  src: src/style
+  dest: dist/css
+image:
+  src: src/image
+  dest: dist/image
+script:
+  src: src/js
+  dest: dist/js
+  compiled: compiled
+
+
